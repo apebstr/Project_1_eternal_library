@@ -14,7 +14,7 @@
 - 큐레이팅 : Python
 
 ### 4. ERD             
-![image](https://github.com/apebstr/project_1_eternal_library/assets/117328602/0652b69a-922c-4399-9213-3384cb40928c)
+![image](https://github.com/apebstr/Project_1_eternal_library/assets/117328602/3f3c9574-b762-40d8-a17a-ef552fd2a595)
      
 ### 7. 담당 기능 (백엔드)
 #### 백엔드 기능구현
