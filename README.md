@@ -8,7 +8,7 @@
 - 6명 (프론트엔드 1명, DBA 1명, 백엔드 4명)
 
 ### 3. 사용한 기술
-- HTML5, CSS3, Javascript, Java, JSP
+- HTML5, CSS3, Javascript, Java11, JSP
 - Spring, MyBatis, Tiles 
 - oracle sql developer
 - 큐레이팅 : Python
